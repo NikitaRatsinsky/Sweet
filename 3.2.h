@@ -5,7 +5,7 @@ class Liquid
 {
 protected:
 	char* name;
-	float density;//РїР»РѕС‚РЅРѕСЃС‚СЊ
+	float density;//плотность
 public:
 	Liquid() {};
 	Liquid(char* name, float density) {
